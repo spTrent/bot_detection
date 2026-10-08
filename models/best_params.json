@@ -1,0 +1,28 @@
+{
+    "rules": {
+        "fast_gap_seconds": 27,
+        "slow_gap_seconds": 284,
+        "pointer_x_std": 400,
+        "n_unique_locations": 19,
+        "max_search_page": 23,
+        "searches_per_query": 5.3735247066582685,
+        "weight_0": 0.9662034168553779,
+        "weight_1": 0.7728767035110873,
+        "weight_2": 0.05969975783615521,
+        "weight_3": 0.03250480882173533,
+        "weight_4": 0.5176726103864011,
+        "weight_5": 0.24249391018670394
+    },
+    "logistic_regression": {
+        "C": 0.013709108488547514
+    },
+    "catboost": {
+        "iterations": 496,
+        "learning_rate": 0.10138509680176677,
+        "depth": 5,
+        "l2_leaf_reg": 10.370946433705793,
+        "random_strength": 0.536020094087912,
+        "bagging_temperature": 0.1851759224863634,
+        "auto_class_weights": null
+    }
+}
